@@ -1,0 +1,52 @@
+_repo: Folk-Tales-of-Napoleon--13-Napoleonder-from-the-Russian--The-Napoleon-of-the-People-from-the-__11278
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kennan, George
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '4318'
+    url: http://www.gutenberg.org/2009/agents/4318
+    wikipedia: http://en.wikipedia.org/wiki/George_Kennan_%28explorer%29
+creator:
+  authors:
+  - agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+  - agent_name: Amfiteatrov, Aleksandr
+    aliases:
+    - Amfiteatroff, Alexander
+    - Amfiteatrov, A. V. (Aleksandr Valentinovich)
+    - Амфитеатров, Александр
+    - Amphiteatrof, Alexander
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '3915'
+    url: http://www.gutenberg.org/2009/agents/3915
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Fiction'
+- !lcc 'DC'
+- GITenberg
+title: "Folk-Tales of Napoleon\r\nNapoleonder from the Russian; The Napoleon of the\
+  \ People from the French of Honoré De Balzac"
+url: http://www.gutenberg.org/ebooks/11278
